@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -3 iacta.txt
+cat -3 iacta
